@@ -33,6 +33,7 @@ cat notes.txt # view content of notes.txt
 ### Blockers and Challenges
 
 - None today! :)
+- No Issues Faced
 
 ### 💬 Mentor Feedback
 
