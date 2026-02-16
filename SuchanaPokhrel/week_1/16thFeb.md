@@ -1,11 +1,11 @@
 # Daily Intern Log: [Date]
 
-### **Intern: [Name]**
+### **Intern: Suyash Nepal**
 
 ## Focus: [Learning]
 ### Tasks Completed
 
-- [ ] [Task Name]: [Brief description of what was built or fixed].
+- [ ] [Day 01 Readings]: [Brief description of what was built or fixed].
 - [ ] [Task Name]: [Brief description].
 
 ### Technical "Today I Learned" (TIL)
@@ -18,6 +18,10 @@
 ### Work Evidence
 
 - Documentation Read: [Link]
+
+### Blockers and Challenges
+
+- Issues found/blockers to learning
 
 ### 💬 Mentor Feedback
 
