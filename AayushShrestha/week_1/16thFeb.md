@@ -5,11 +5,9 @@
 ## Focus: [e.g., UI Refactoring / API Logic/ Learning]
 ### 🛠️ Tasks Completed
 
-[ ] [Task Name]: [Brief description of what was built or fixed].
-
-[ ] [Task Name]: [Brief description].
-
-[ ] [Task Name]: [Brief description].
+- [ ] [Task Name]: [Brief description of what was built or fixed].
+- [ ] [Task Name]: [Brief description].
+- [ ] [Task Name]: [Brief description].
 
 ### 🧠 Technical "Today I Learned" (TIL)
 
@@ -18,7 +16,7 @@
 - Key Takeaway: [e.g., "I learned that brew upgrade only updates the formula, while brew upgrade [package] updates the actual software."]
 - Code:
 
-# Example: How I checked the logs today
+#### Example: How I checked the logs today
 tail -f /path/to/logfile.log
 
 ### 🛑 Blockers & Challenges
